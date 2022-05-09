@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyrus Fornoles</h1>
-<h3 align="center">A self-instructed programmer</h3>
+<h3 align="center">A self-instructed programmer motivated to learn more</h3>
 
 - 🌱 I’m currently learning **Django, Flask, JS frameworks**
 
