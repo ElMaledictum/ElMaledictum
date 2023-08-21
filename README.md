@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyrus Fornoles</h1>
 <h3 align="center">A self-instructed programmer motivated to learn more</h3>
 
-- 🌱 I’m currently learning **Django, Flask, JS frameworks**
+- 🌱 I’m currently learning **Data engineering and Backend development topics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElMaledictum](https://github.com/ElMaledictum)
 
